@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **creating a portfolio website for my projects**
 
-- 🌱 I’m currently learning **React, Javascript, Flask**
+- 🌱 I’m currently learning **Framer Motion, Spline, and Blender modeling**
 
 - 👯 I’m looking to collaborate on **creating front end related activities**
 
